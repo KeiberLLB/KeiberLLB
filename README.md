@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @KeiberLLB
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <div align="center">
 <h3>Mis vistas</h3>
  <img src="https://profile-counter.glitch.me/KeiberLLB/count.svg?"  />
@@ -41,7 +33,7 @@
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass" />
      <br>
-      <img src="https://skillicons.dev/icons?i=py,spring,mysql,java,github" />
+      <img src="https://skillicons.dev/icons?i=spring,mysql,java,github" />
           <br>
       <img src="https://skillicons.dev/icons?i=git" />
   </a>
@@ -52,8 +44,13 @@
 <h3>Mis estadisticas</h3>
 <div align="center">
  
-   <img src="https://github-readme-stats.vercel.app/api?username=Rignu1503&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=true&order=1" height="151" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rignu1503&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rignu1503&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+   <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeiberLLB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeiberLLB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=KeiberLLB&theme=discord&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeiberLLB&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 </div>
 
