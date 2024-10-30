@@ -23,6 +23,9 @@
   <a href="https://www.linkedin.com/in/keiber-leandro-lázaro-bastos-8008612a4/" target="blank"><img align="center" height="30" width="40"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan"/></a>
+      <a href="https://portafolio-keiber-skvr.vercel.app/" target="blank"><img align="center" height="30" width="40"
+      src="https://www.svgrepo.com/show/90286/up-arrow.svg"
+      alt="adam pithewan"/></a>
 
 </p>
 
