@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/keiber-leandro-lázaro-bastos-8008612a4/" target="blank"><img align="center" height="30" width="40"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan"/></a>
-      <a href="https://portafolio-keiber-skvr.vercel.app/" target="blank"><img align="center" height="30" width="40"
+  <a href="https://portafolio-keiber-skvr.vercel.app/" target="blank"><img align="center" height="30" width="40"
       src="https://www.svgrepo.com/show/90286/up-arrow.svg"
       alt="adam pithewan"/></a>
 
@@ -34,11 +34,11 @@
 <h3 align="left">
   Lenguajes y herramientas:</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,angular" />
      <br>
-      <img src="https://skillicons.dev/icons?i=spring,mysql,java,github" />
+      <img src="https://skillicons.dev/icons?i=spring,mysql,sqlite,java,github" />
           <br>
-      <img src="https://skillicons.dev/icons?i=git" />
+      <img src="https://skillicons.dev/icons?i=git,aws,docker,maven,postman" />
   </a>
 
 
